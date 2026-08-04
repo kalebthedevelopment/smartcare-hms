@@ -1,0 +1,8 @@
+{
+  "name": " SmartCare HMS",
+  "description": "Cloud-native Hospital Management System with Reception EMR card issuance, Doctor Consultation, Laboratory testing, Pharmacy stock, and Telebirr/Chapa payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
